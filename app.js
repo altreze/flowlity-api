@@ -3,9 +3,10 @@
  * @Date:   2019-07-31T12:48:47+01:00
  * @Filename: app.js
  * @Last modified by:   mouad
- * @Last modified time: 2019-08-01T01:41:30+01:00
+ * @Last modified time: 2019-08-02T00:06:20+01:00
  * @Copyright: Altreze SARL
  */
+'use strict';
 
 var createError = require('http-errors');
 var express = require('express');

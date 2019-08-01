@@ -3,9 +3,10 @@
  * @Date:   2019-07-31T12:48:47+01:00
  * @Filename: index.js
  * @Last modified by:   mouad
- * @Last modified time: 2019-07-31T13:00:44+01:00
+ * @Last modified time: 2019-08-02T00:06:13+01:00
  * @Copyright: Altreze SARL
  */
+'use strict';
 
 var express = require('express');
 var router = express.Router();
